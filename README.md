@@ -1,6 +1,6 @@
 <!-- Animating Typing Heading -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Software+Engineering+Student;Creative+Problem+Solver" alt="Typing SVG" />
+  <img src="https://demolab.com" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -16,18 +16,18 @@
         <li>🌱 <b>Currently learning:</b> React, Node.js, Express.js & MongoDB</li>
         <li>👯 <b>Looking to collaborate on:</b> Open Source Projects & Web Applications</li>
         <li>💬 <b>Ask me about:</b> Java, Spring Boot, JavaScript, HTML/CSS, SQL</li>
-        <li>📫 <b>Reach me at:</b> <a href="https://www.linkedin.com/in/niroshan-kavinda/" target="_blank">LinkedIn Profile</a></li>
+        <li>📫 <b>Reach me at:</b> <a href="https://linkedin.com" target="_blank">LinkedIn Profile</a></li>
       </ul>
     </td>
     <td align="center" valign="middle" width="45%">
-      <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/git.gif" width="100%" alt="Developer Working Animation" />
+      <img src="https://githubusercontent.com" width="100%" alt="Developer Working Animation" />
     </td>
   </tr>
 </table>
 
 <hr/>
 
-<!-- Tech Stack Section (Structured Table with Skill Icons matched to the reference layout) -->
+<!-- Tech Stack Section -->
 <h2 align="center">🛠️ My Tech Stack</h2>
 <div align="center">
   <table>
@@ -63,19 +63,19 @@
 <!-- Let's Connect Section -->
 <h2 align="center">🌐 Let's Connect</h2>
 <div align="center">
-  <a href="https://www.linkedin.com/in/niroshan-kavinda" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com" target="_blank">
+    <img src="https://shields.io" />
   </a>
-  <a href="https://youtube.com/@AnimeNKMotions" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  <a href="https://youtube.com" target="_blank">
+    <img src="https://shields.io" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com" alt="Profile Views" />
 </div>
