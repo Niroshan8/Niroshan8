@@ -71,7 +71,7 @@
   <a href="https://youtube.com/@AnimeNKMotions" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-   <a href="www.youtube.com/@HithumatheCooK" target="_blank">
+   <a href="https://youtube.com/@HithumatheCooK" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </div>
