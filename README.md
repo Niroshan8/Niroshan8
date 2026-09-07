@@ -16,7 +16,7 @@
         <li>🌱 <b>Currently learning:</b> React, Node.js, Express.js & MongoDB</li>
         <li>👯 <b>Looking to collaborate on:</b> Open Source Projects & Web Applications</li>
         <li>💬 <b>Ask me about:</b> Java, Spring Boot, JavaScript, HTML/CSS, SQL</li>
-        <li>📫 <b>Reach me at:</b> <a href="mailto:your.email@gmail.com">your.email@gmail.com</a></li>
+        <li>📫 <b>Reach me at:</b> <a href="[mailto:your.email@gmail.com](https://www.linkedin.com/in/niroshan-kavinda/)">https://www.linkedin.com/in/niroshan-kavinda/</a></li>
       </ul>
     </td>
     <td align="center" valign="middle" width="45%">
