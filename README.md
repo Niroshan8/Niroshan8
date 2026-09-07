@@ -1,22 +1,24 @@
 <div align="center">
-  <h1>👋 Hi there, I'm [Niroshan Kavinda]</h1>
+  <h1>👋 Hi there, I'm Niroshan Kavinda</h1>
 </div>
+
+<br/>
 
 <table>
   <tr>
-    <td valign="top" width="60%">
+    <td valign="top" width="55%">
       <p>I am a final-year undergraduate student pursuing a Bachelor of Information Technology at the University of Colombo School of Computing (UCSC).</p>
 
       <ul>
-        <li>🔭 I’m currently working on <b>Full-Stack Web Development Projects</b></li>
-        <li>🌱 I’m currently learning <b>React, Node.js & Advanced Enterprise Systems</b></li>
-        <li>👯 I’m looking to collaborate on <b>Open Source Projects & Web Applications</b></li>
-        <li>💬 Ask me about <b>Java, Spring Boot, JavaScript, HTML/CSS, SQL</b></li>
-        <li>📫 Reach me at <b>your.email@gmail.com</b></li>
+        <li>🔭 <b>Currently working on:</b> Full-Stack Web Development Projects</li>
+        <li>🌱 <b>Currently learning:</b> React, Node.js & Enterprise Web Architecture</li>
+        <li>👯 <b>Looking to collaborate on:</b> Open Source & Web Applications</li>
+        <li>💬 <b>Ask me about:</b> Java, Spring Boot, JavaScript, HTML/CSS, SQL</li>
+        <li>📫 <b>Reach me at:</b> <a href="mailto:your.email@gmail.com">your.email@gmail.com</a></li>
       </ul>
     </td>
-    <td valign="top" width="40%">
-      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" alt="Developer Gif"/>
+    <td align="center" valign="middle" width="45%">
+      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ed.gif" width="100%" alt="Professional Developer Illustration" />
     </td>
   </tr>
 </table>
@@ -85,7 +87,7 @@
   <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://youtube.com/@YOUR_YOUTUBE_HANDLE" target="_blank">
+  <a href="https://youtube.com/@AnimeNKMotions" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <a href="mailto:your.email@gmail.com">
