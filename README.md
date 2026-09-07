@@ -1,68 +1,43 @@
-<!-- Animating Typing Heading -->
-<div align="center">
+<!-- Typing SVG Header -->
+<p align="center">
   <img src="https://demolab.com" alt="Typing SVG" />
+</p>
+
+<!-- Profile Layout Block -->
+<div align="center">
+  <img src="https://githubusercontent.com" width="350" align="right" alt="Developer Working Animation" />
 </div>
 
-<br/>
+### 👋 Hi there, I'm Niroshan Kavinda
 
-<!-- Intro & Image Section -->
-<table>
-  <tr>
-    <td valign="top" width="55%">
-      <h3>👋 Hi there, I'm Niroshan Kavinda</h3>
-      <p>I am a final-year undergraduate student pursuing a Bachelor of Information Technology at the University of Colombo School of Computing (UCSC). I am passionate about building scalable web applications and exploring modern enterprise software architecture.</p>
-      <ul>
-        <li>🔭 <b>Currently working on:</b> Full-Stack Web Development Projects</li>
-        <li>🌱 <b>Currently learning:</b> React, Node.js, Express.js & MongoDB</li>
-        <li>👯 <b>Looking to collaborate on:</b> Open Source Projects & Web Applications</li>
-        <li>💬 <b>Ask me about:</b> Java, Spring Boot, JavaScript, HTML/CSS, SQL</li>
-        <li>📫 <b>Reach me at:</b> <a href="https://linkedin.com" target="_blank">LinkedIn Profile</a></li>
-      </ul>
-    </td>
-    <td align="center" valign="middle" width="45%">
-      <img src="https://githubusercontent.com" width="100%" alt="Developer Working Animation" />
-    </td>
-  </tr>
-</table>
+I am a final-year undergraduate student pursuing a Bachelor of Information Technology at the University of Colombo School of Computing (UCSC). I am passionate about building scalable web applications and exploring modern enterprise software architecture.
 
+* 🔭 **Currently working on:** Full-Stack Web Development Projects
+* 🌱 **Currently learning:** React, Node.js, Express.js & MongoDB
+* 👯 **Looking to collaborate on:** Open Source Projects & Web Applications
+* 💬 **Ask me about:** Java, Spring Boot, JavaScript, HTML/CSS, SQL
+* 📫 **Reach me at:** [LinkedIn Profile](https://linkedin.com)
+
+<br clear="right" />
 <hr/>
 
 <!-- Tech Stack Section -->
 <h2 align="center">🛠️ My Tech Stack</h2>
+
 <div align="center">
-  <table>
-    <tr>
-      <th align="center">Languages</th>
-      <th align="center">Frontend</th>
-      <th align="center">Backend</th>
-      <th align="center">Data & AI</th>
-      <th align="center">Tools</th>
-    </tr>
-    <tr>
-      <td align="center" valign="top">
-        <img src="https://skillicons.dev" alt="Languages" />
-      </td>
-      <td align="center" valign="top">
-        <img src="https://skillicons.dev" alt="Frontend" />
-      </td>
-      <td align="center" valign="top">
-        <img src="https://skillicons.dev" alt="Backend" />
-      </td>
-      <td align="center" valign="top">
-        <img src="https://skillicons.dev" alt="Data & AI" />
-      </td>
-      <td align="center" valign="top">
-        <img src="https://skillicons.dev" alt="Tools" />
-      </td>
-    </tr>
-  </table>
+
+| Languages | Frontend | Backend | Data & AI | Tools |
+| :---: | :---: | :---: | :---: | :---: |
+| <img src="https://skillicons.dev" alt="Languages" /> | <img src="https://skillicons.dev" alt="Frontend" /> | <img src="https://skillicons.dev" alt="Backend" /> | <img src="https://skillicons.dev" alt="Data & AI" /> | <img src="https://skillicons.dev" alt="Tools" /> |
+
 </div>
 
 <hr/>
 
 <!-- Let's Connect Section -->
 <h2 align="center">🌐 Let's Connect</h2>
-<div align="center">
+
+<p align="center">
   <a href="https://linkedin.com" target="_blank">
     <img src="https://shields.io" />
   </a>
@@ -72,10 +47,10 @@
   <a href="https://youtube.com" target="_blank">
     <img src="https://shields.io" />
   </a>
-</div>
+</p>
 
 <br/>
 
-<div align="center">
+<p align="center">
   <img src="https://komarev.com" alt="Profile Views" />
-</div>
+</p>
