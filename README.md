@@ -18,8 +18,8 @@
         <li>📫 <b>Reach me at:</b> <a href="https://www.linkedin.com/in/niroshan-kavinda/" target="_blank">LinkedIn Profile</a></li>
       </ul>
     </td>
-    <td align="center" valign="middle" width="45%">
-      <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/git.gif" width="100%" alt="Developer Working Animation" />
+   <td align="center" valign="middle" width="45%">
+      <img src="https://user-images.githubusercontent.com/74038190/212900420-11d6daeb-4bcd-474f-ad58-86c47d25b541.gif" width="100%" alt="Developer Working Illustration" />
     </td>
   </tr>
 </table>
@@ -32,4 +32,48 @@
   <table>
     <tr>
       <th align="center">Languages</th>
-      <th
+      <th align="center">Frontend</th>
+      <th align="center">Backend</th>
+      <th align="center">Data & DB</th>
+      <th align="center">Tools</th>
+    </tr>
+    <tr>
+      <td align="center" valign="top">
+        <img src="https://skillicons.dev/icons?i=java,js,php,html,css" alt="Languages" />
+      </td>
+      <td align="center" valign="top">
+        <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" alt="Frontend" />
+      </td>
+      <td align="center" valign="top">
+        <img src="https://skillicons.dev/icons?i=spring,nodejs,express" alt="Backend" />
+      </td>
+      <td align="center" valign="top">
+        <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Data & DB" />
+      </td>
+      <td align="center" valign="top">
+        <img src="https://skillicons.dev/icons?i=idea,eclipse,vscode,androidstudio,ps,pr,ae,git,github,figma" alt="Tools" />
+        <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=davinciresolve&logoColor=FF7A00" height="48" alt="DaVinci Resolve" />
+      </td>
+    </tr>
+  </table>
+</div>
+<hr/>
+
+<!-- Let's Connect Section -->
+<h2 align="center">🌐 Let's Connect</h2>
+<div align="center">
+  <a href="https://www.linkedin.com/in/niroshan-kavinda" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Niroshan8" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/@AnimeNKMotions" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+   <a href="www.youtube.com/@HithumatheCooK" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</div>
+<br/>
+</div>
