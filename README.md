@@ -19,7 +19,7 @@
       </ul>
     </td>
     <td align="center" valign="middle" width="45%">
-      <img src="https://user-images.githubusercontent.com/74038190/212900420-11d6daeb-4bcd-474f-ad58-86c47d25b541.gif" width="100%" alt="Developer Working Illustration" />
+      <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/git.gif" width="100%" alt="Developer Working Animation" />
     </td>
   </tr>
 </table>
@@ -39,7 +39,7 @@
     </tr>
     <tr>
       <td align="center" valign="top">
-        <img src="https://skillicons.dev/icons?i=java,js,ts,php,html,css" alt="Languages" />
+        <img src="https://skillicons.dev/icons?i=java,js,php,html,css" alt="Languages" />
       </td>
       <td align="center" valign="top">
         <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" alt="Frontend" />
@@ -51,7 +51,7 @@
         <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Data & DB" />
       </td>
       <td align="center" valign="top">
-        <img src="https://skillicons.dev/icons?i=idea,eclipse,vscode,androidstudio,ps,pr,ae,git,github" alt="Tools" />
+        <img src="https://skillicons.dev/icons?i=idea,eclipse,vscode,androidstudio,figma,ps,pr,ae,git,github" alt="Tools" />
       </td>
     </tr>
   </table>
