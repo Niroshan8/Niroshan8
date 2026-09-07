@@ -2,7 +2,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Software+Engineering+Student;Creative+Problem+Solver" alt="Typing SVG" />
 </div>
-
 <br/>
 
 <!-- Intro & Image Section -->
@@ -20,14 +19,13 @@
       </ul>
     </td>
     <td align="center" valign="middle" width="45%">
-      <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/git.gif" width="100%" alt="Developer Working Animation" />
+      <img src="https://user-images.githubusercontent.com/74038190/212900420-11d6daeb-4bcd-474f-ad58-86c47d25b541.gif" width="100%" alt="Developer Working Illustration" />
     </td>
   </tr>
 </table>
-
 <hr/>
 
-<!-- Tech Stack Section (Structured Table with Correct Skill Icons) -->
+<!-- Tech Stack Section (Dark Panel Style, Skillicons Grid) -->
 <h2 align="center">🛠️ My Tech Stack</h2>
 
 <div align="center">
@@ -36,34 +34,32 @@
       <th align="center">Languages</th>
       <th align="center">Frontend</th>
       <th align="center">Backend</th>
-      <th align="center">Database</th>
-      <th align="center">Tools & Software</th>
+      <th align="center">Data & DB</th>
+      <th align="center">Tools</th>
     </tr>
     <tr>
       <td align="center" valign="top">
-        <img src="https://skillicons.dev/icons?i=java,js,php,html,css" alt="Languages" />
+        <img src="https://skillicons.dev/icons?i=java,js,ts,php,html,css" alt="Languages" />
       </td>
       <td align="center" valign="top">
-        <img src="https://skillicons.dev/icons?i=react,bootstrap" alt="Frontend" />
+        <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" alt="Frontend" />
       </td>
       <td align="center" valign="top">
         <img src="https://skillicons.dev/icons?i=spring,nodejs,express" alt="Backend" />
       </td>
       <td align="center" valign="top">
-        <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Database" />
+        <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Data & DB" />
       </td>
       <td align="center" valign="top">
-        <img src="https://skillicons.dev/icons?i=idea,eclipse,vscode,androidstudio,ps,pr,ae,davinci,git,github" alt="Tools" />
+        <img src="https://skillicons.dev/icons?i=idea,eclipse,vscode,androidstudio,ps,pr,ae,git,github" alt="Tools" />
       </td>
     </tr>
   </table>
 </div>
-
 <hr/>
 
 <!-- Let's Connect Section -->
 <h2 align="center">🌐 Let's Connect</h2>
-
 <div align="center">
   <a href="https://www.linkedin.com/in/niroshan-kavinda" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -75,9 +71,7 @@
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </div>
-
 <br/>
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
