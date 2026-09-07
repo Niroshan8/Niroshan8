@@ -23,5 +23,9 @@
         <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Data & DB" />
       </td>
       <td align="center" valign="top">
-        <img src="https://skillicons.dev/icons?i=idea,eclipse,vscode,androidstudio,ps,pr,ae,git,github,gitlab,figma" alt="Tools" /><br/>
-        <img
+        <img src="https://skillicons.dev/icons?i=idea,eclipse,vscode,androidstudio,ps,pr,ae,git,github,gitlab,figma" alt="Tools" />
+        <img src="https://cdn.simpleicons.org/davinciresolve/ffffff" width="48" height="48" alt="DaVinci Resolve" />
+      </td>
+    </tr>
+  </table>
+</div>
