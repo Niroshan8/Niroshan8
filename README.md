@@ -50,7 +50,7 @@
         <img src="https://skillicons.dev/icons?i=spring,nodejs,express" alt="Backend" />
       </td>
       <td align="center" valign="top">
-        <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="Database" />
+        <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Database" />
       </td>
       <td align="center" valign="top">
         <img src="https://skillicons.dev/icons?i=idea,eclipse,vscode,androidstudio,ps,pr,ae,davinci,git,github" alt="Tools" />
