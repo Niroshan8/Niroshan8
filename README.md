@@ -27,13 +27,36 @@
 
 <hr/>
 
-<!-- Tech Stack Section (Icon-Only Grid Style) -->
+<!-- Tech Stack Section (Structured Table with Skill Icons) -->
 <h2 align="center">🛠️ My Tech Stack</h2>
 
 <div align="center">
-  <p>
-    <img src="https://skillicons.dev/icons?i=java,js,php,html,css,react,bootstrap,spring,nodejs,express,mysql,postgres,mongodb,intellij,eclipse,vscode,androidstudio,ps,pr,ae,davinci,git,github" alt="My Tech Stack" />
-  </p>
+  <table>
+    <tr>
+      <th align="center">Languages</th>
+      <th align="center">Frontend</th>
+      <th align="center">Backend</th>
+      <th align="center">Database</th>
+      <th align="center">Tools & Software</th>
+    </tr>
+    <tr>
+      <td align="center" valign="top">
+        <img src="https://skillicons.dev/icons?i=java,js,php,html,css" alt="Languages" />
+      </td>
+      <td align="center" valign="top">
+        <img src="https://skillicons.dev/icons?i=react,bootstrap" alt="Frontend" />
+      </td>
+      <td align="center" valign="top">
+        <img src="https://skillicons.dev/icons?i=spring,nodejs,express" alt="Backend" />
+      </td>
+      <td align="center" valign="top">
+        <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="Database" />
+      </td>
+      <td align="center" valign="top">
+        <img src="https://skillicons.dev/icons?i=idea,eclipse,vscode,androidstudio,ps,pr,ae,davinci,git,github" alt="Tools" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <hr/>
