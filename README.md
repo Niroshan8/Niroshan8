@@ -27,54 +27,13 @@
 
 <hr/>
 
-<!-- Tech Stack Section (Icon-Only Style) -->
+<!-- Tech Stack Section (Icon-Only Grid Style) -->
 <h2 align="center">🛠️ My Tech Stack</h2>
 
 <div align="center">
-  <table>
-    <tr>
-      <th align="center">Languages</th>
-      <th align="center">Frontend</th>
-      <th align="center">Backend</th>
-      <th align="center">Database</th>
-      <th align="center">Tools & Software</th>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" /><br/><br/>
-        <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" /><br/><br/>
-        <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" /><br/><br/>
-        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /><br/><br/>
-        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-      </td>
-      <td align="center" valign="top">
-        <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /><br/><br/>
-        <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-      </td>
-      <td align="center" valign="top">
-        <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" /><br/><br/>
-        <img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" /><br/><br/>
-        <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-      </td>
-      <td align="center" valign="top">
-        <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" /><br/><br/>
-        <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" /><br/><br/>
-        <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-      </td>
-      <td align="center" valign="top">
-        <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" /><br/><br/>
-        <img src="https://img.shields.io/badge/Eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white" /><br/><br/>
-        <img src="https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /><br/><br/>
-        <img src="https://img.shields.io/badge/Android_Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" /><br/><br/>
-        <img src="https://img.shields.io/badge/Adobe_Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white" /><br/><br/>
-        <img src="https://img.shields.io/badge/Adobe_Premiere_Pro-%239999FF.svg?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" /><br/><br/>
-        <img src="https://img.shields.io/badge/Adobe_After_Effects-%239999FF.svg?style=for-the-badge&logo=adobe-after-effects&logoColor=white" /><br/><br/>
-        <img src="https://img.shields.io/badge/DaVinci_Resolve-%23FF4500.svg?style=for-the-badge&logo=davinciresolve&logoColor=white" /><br/><br/>
-        <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" /><br/><br/>
-        <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-      </td>
-    </tr>
-  </table>
+  <p>
+    <img src="https://skillicons.dev/icons?i=java,js,php,html,css,react,bootstrap,spring,nodejs,express,mysql,postgres,mongodb,intellij,eclipse,vscode,androidstudio,ps,pr,ae,davinci,git,github" alt="My Tech Stack" />
+  </p>
 </div>
 
 <hr/>
@@ -83,7 +42,7 @@
 <h2 align="center">🌐 Let's Connect</h2>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/niroshan-kavinda/" target="_blank">
+  <a href="https://www.linkedin.com/in/niroshan-kavinda" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
