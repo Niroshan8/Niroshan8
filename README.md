@@ -11,7 +11,6 @@
     <td valign="top" width="55%">
       <h3>👋 Hi there, I'm Niroshan Kavinda</h3>
       <p>I am a final-year undergraduate student pursuing a Bachelor of Information Technology at the University of Colombo School of Computing (UCSC). I am passionate about building scalable web applications and exploring modern enterprise software architecture.</p>
-
       <ul>
         <li>🔭 <b>Currently working on:</b> Full-Stack Web Development Projects</li>
         <li>🌱 <b>Currently learning:</b> React, Node.js, Express.js & MongoDB</li>
