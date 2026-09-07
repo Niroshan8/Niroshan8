@@ -27,32 +27,33 @@
 
 <hr/>
 
-<!-- Tech Stack Section (Structured Table with Skill Icons matched to the reference layout) -->
+<!-- Tech Stack Section (Structured Table with Correct Skill Icons) -->
 <h2 align="center">🛠️ My Tech Stack</h2>
+
 <div align="center">
   <table>
     <tr>
       <th align="center">Languages</th>
       <th align="center">Frontend</th>
       <th align="center">Backend</th>
-      <th align="center">Data & AI</th>
-      <th align="center">Tools</th>
+      <th align="center">Database</th>
+      <th align="center">Tools & Software</th>
     </tr>
     <tr>
       <td align="center" valign="top">
-        <img src="https://skillicons.dev" alt="Languages" />
+        <img src="https://skillicons.dev/icons?i=java,js,php,html,css" alt="Languages" />
       </td>
       <td align="center" valign="top">
-        <img src="https://skillicons.dev" alt="Frontend" />
+        <img src="https://skillicons.dev/icons?i=react,bootstrap" alt="Frontend" />
       </td>
       <td align="center" valign="top">
-        <img src="https://skillicons.dev" alt="Backend" />
+        <img src="https://skillicons.dev/icons?i=spring,nodejs,express" alt="Backend" />
       </td>
       <td align="center" valign="top">
-        <img src="https://skillicons.dev" alt="Data & AI" />
+        <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Database" />
       </td>
       <td align="center" valign="top">
-        <img src="https://skillicons.dev" alt="Tools" />
+        <img src="https://skillicons.dev/icons?i=idea,eclipse,vscode,androidstudio,ps,pr,ae,davinci,git,github" alt="Tools" />
       </td>
     </tr>
   </table>
@@ -62,6 +63,7 @@
 
 <!-- Let's Connect Section -->
 <h2 align="center">🌐 Let's Connect</h2>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/niroshan-kavinda" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
