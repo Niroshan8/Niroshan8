@@ -1,11 +1,9 @@
-<!-- Animating Typing Heading -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Software+Engineering+Student;Creative+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;Software+Engineering+Student;Creative+Problem+Solver" alt="Typing SVG" />
 </div>
 
 <br/>
 
-<!-- Intro & Image Section -->
 <table>
   <tr>
     <td valign="top" width="55%">
@@ -16,18 +14,17 @@
         <li>🌱 <b>Currently learning:</b> React, Node.js, Express.js & MongoDB</li>
         <li>👯 <b>Looking to collaborate on:</b> Open Source Projects & Web Applications</li>
         <li>💬 <b>Ask me about:</b> Java, Spring Boot, JavaScript, HTML/CSS, SQL</li>
-        <li>📫 <b>Reach me at:</b> <a href="[mailto:your.email@gmail.com](https://www.linkedin.com/in/niroshan-kavinda/)">https://www.linkedin.com/in/niroshan-kavinda/</a></li>
+        <li>📫 <b>Reach me at:</b> <a href="https://www.linkedin.com/in/niroshan-kavinda/" target="_blank">LinkedIn Profile</a></li>
       </ul>
     </td>
     <td align="center" valign="middle" width="45%">
-      <img src="https://raw.githubusercontent.com/raghavkanungo/raghavkanungo/master/assets/developer.gif" width="100%" alt="Professional Developer Illustration" />
+      <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/git.gif" width="100%" alt="Developer Working Animation" />
     </td>
   </tr>
 </table>
 
 <hr/>
 
-<!-- Tech Stack Section -->
 <h2 align="center">🛠️ My Tech Stack</h2>
 
 <div align="center">
@@ -37,12 +34,13 @@
       <th align="center">Frontend</th>
       <th align="center">Backend</th>
       <th align="center">Database</th>
-      <th align="center">Tools</th>
+      <th align="center">Tools & Software</th>
     </tr>
     <tr>
       <td align="center">
         <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /><br/><br/>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br/><br/>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /><br/><br/>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><br/><br/>
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
       </td>
@@ -61,9 +59,16 @@
         <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
       </td>
       <td align="center" valign="top">
+        <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" /><br/><br/>
+        <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" /><br/><br/>
+        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /><br/><br/>
+        <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" /><br/><br/>
+        <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" /><br/><br/>
+        <img src="https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" /><br/><br/>
+        <img src="https://img.shields.io/badge/Adobe_After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white" /><br/><br/>
+        <img src="https://img.shields.io/badge/DaVinci_Resolve-FF4500?style=for-the-badge&logo=davinciresolve&logoColor=white" /><br/><br/>
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /><br/><br/>
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /><br/><br/>
-        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
       </td>
     </tr>
   </table>
@@ -71,22 +76,10 @@
 
 <hr/>
 
-<!-- GitHub Analytics Section -->
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark" alt="GitHub Streak" /><br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark" alt="Top Languages" width="48%" />
-</div>
-
-<hr/>
-
-<!-- Let's Connect Section -->
 <h2 align="center">🌐 Let's Connect</h2>
 
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://linkedin.com/in/niroshan-kavinda" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
