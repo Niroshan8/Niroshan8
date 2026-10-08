@@ -39,7 +39,7 @@
     </tr>
     <tr>
       <td align="center" valign="top">
-        <img src="https://skillicons.dev/icons?i=java,js,php,html,css" alt="Languages" />
+        <img src="https://skillicons.dev/icons?i=java,js,php,html,css,python,c#" alt="Languages" />
       </td>
       <td align="center" valign="top">
         <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" alt="Frontend" />
