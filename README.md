@@ -51,7 +51,7 @@
         <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Data & DB" />
       </td>
       <td align="center" valign="top">
-        <img src="https://skillicons.dev/icons?i=idea,eclipse,vscode,androidstudio,ps,pr,ae,git,github,figma" alt="Tools" />
+        <img src="https://skillicons.dev/icons?i=idea,eclipse,vscode,androidstudio,illustrator,ps,pr,ae,git,github,figma" alt="Tools" />
         <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=davinciresolve&logoColor=FF7A00" height="48" alt="DaVinci Resolve" />
       </td>
     </tr>
