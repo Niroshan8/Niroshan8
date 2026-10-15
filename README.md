@@ -45,7 +45,7 @@
         <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" alt="Frontend" />
       </td>
       <td align="center" valign="top">
-        <img src="https://skillicons.dev/icons?i=spring,nodejs,express,laravel" alt="Backend" />
+        <img src="https://skillicons.dev/icons?i=spring,nodejs,express" alt="Backend" />
       </td>
       <td align="center" valign="top">
         <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Data & DB" />
